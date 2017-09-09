@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Full-stack developer with primary focus on building testable, maintainable web services
 
 ### More Information
 
